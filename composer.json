@@ -1,0 +1,12 @@
+{
+  "name": "jeyroik/extas-protocol-form",
+  "description": "Simple form data protocol for the Extas",
+  "require": {
+    "jeyroik/extas-protocols":"*"
+  },
+  "autoload": {
+    "psr-4": {
+      "extas\\": "src/"
+    }
+  }
+}

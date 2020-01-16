@@ -1,0 +1,12 @@
+{
+  "name": "extas/protocol-form",
+  "protocols": [
+    {
+      "name": "form",
+      "title": "Form",
+      "description": "Form data ($_REQUEST)",
+      "accept": ["application/text", "multipart/form-data", "application/json"],
+      "class": "extas\\components\\protocols\\ProtocolForm"
+    }
+  ]
+}
