@@ -2,7 +2,7 @@
   "name": "jeyroik/extas-protocol-form",
   "description": "Simple form data protocol for the Extas",
   "require": {
-    "jeyroik/extas-protocols":"*"
+    "jeyroik/extas-protocols":"1.*"
   },
   "autoload": {
     "psr-4": {

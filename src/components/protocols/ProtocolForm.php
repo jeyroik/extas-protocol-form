@@ -11,7 +11,7 @@ use Psr\Http\Message\RequestInterface;
  */
 class ProtocolForm extends Protocol
 {
-    const FIELD__ACTION = 'action';
+    public const FIELD__ACTION = 'action';
 
     /**
      * @param array $args
